@@ -1,8 +1,8 @@
 import java.util.Scanner;
 class TrainReservation
 {
-    private static final String login_Username = "User_Name";
-    private static final String User_Password = "Name_User123";
+    private static final String login_Username = "thanos";
+    private static final String User_Password = "infinitystones6";
     public static void main(String[] args) 
     {
         Scanner sc = new Scanner(System.in);
